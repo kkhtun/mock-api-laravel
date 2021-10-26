@@ -1,12 +1,12 @@
 Fake Store API
 
-Current Endpoints
+Current Endpoints\
 
-GET - /products
-GET - /products/{id}
-POST - /products
-PATCH - /products/{id}
-DELETE - /products/{id}
+GET - /products\
+GET - /products/{id}\
+POST - /products\
+PATCH - /products/{id}\
+DELETE - /products/{id}\
 
 Don't forget to
 - Check .env file for database configurations
